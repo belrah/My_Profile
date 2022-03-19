@@ -100,7 +100,7 @@ class Contact extends Component {
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem 
                         eaque ipsa quae ab illo inventore veritatis et quasi
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
