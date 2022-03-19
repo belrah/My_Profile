@@ -51,16 +51,16 @@
             "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
         }],
         "work": [{
-                "company": "Awesome Design Studio",
-                "title": "Senior UX God ",
-                "years": "March 2010 - Present",
-                "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+                "company": "MacroFocus Nig Ltd",
+                "title": "Mobile Developer - Intern ",
+                "years": "January 2022 - Present",
+                "description": "Working on a Staff Management and payrollmobile app on a learn and implement basis using flutter fo rthe user interface and php for the backend."
             },
             {
-                "company": "Super Cool Studio",
-                "title": "Junior bug fixer",
-                "years": "March 2007 - February 2010",
-                "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+                "company": "MacroFocus Nig Ltd - (NYSC - PPA)",
+                "title": "UI/UX Designer",
+                "years": "Febuary - December 2021",
+                "description": "I worked on two major projectswhich includes: Design of multiple web and mobile app for a farm management software used as an agripreneur platform and also, Design of a desktop app for a waterfactory using which is used for factory management and inventory."
             }
         ],
         "skills": [{
@@ -84,12 +84,12 @@
                 "level": "80%"
             },
             {
-                "name": "VueJs",
+                "name": "PHP",
                 "level": "50%"
             },
             {
-                "name": "MongoDB",
-                "level": "80%"
+                "name": "Flutter/Dart",
+                "level": "60%"
             }
         ]
     },
